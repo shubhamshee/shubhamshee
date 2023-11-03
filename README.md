@@ -19,7 +19,7 @@
 
 ```python
 
-#!/usr/bin/python
+#!/usr/bin/php
 # -*- coding: utf-8 -*-
 
 
@@ -60,8 +60,8 @@ me.say_hi()
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Amramitdas+language%3Areact"><img alt="React" src="https://img.shields.io/badge/-React-512BD4?style=for-the-badge&logo=react&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Apython"><img alt="Laravel" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amramitdas+language%3Areact"><img alt="Vue" src="https://img.shields.io/badge/-React-512BD4?style=for-the-badge&logo=react&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amramitdas+language%3ANodeJs"><img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amramitdas+language%3Ajavascript"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
     <a href="https://github.com/search?q=user%3Amramitdas+language%3Aandroid"><img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
